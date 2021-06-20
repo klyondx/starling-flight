@@ -1,1 +1,1 @@
-![](boids.mp4)
+![](boids-3.gif)
